@@ -1,0 +1,60 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.pdb
+C:\Users\Igor\Desktop\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe.config
+C:\Users\Igor\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.exe
+C:\Users\Igor\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.pdb
+C:\Users\Igor\Desktop\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe
+C:\Users\Igor\Desktop\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.pdb
+C:\Users\Igor\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.Form1.resources
+C:\Users\Igor\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.Properties.Resources.resources
+C:\Users\Igor\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe.config
+C:\Users\Игорь\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.exe
+C:\Users\Игорь\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.pdb
+C:\Users\Игорь\Desktop\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe
+C:\Users\Игорь\Desktop\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.pdb
+C:\Users\Игорь\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.Form1.resources
+C:\Users\Игорь\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe.config
+C:\Users\User\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.exe
+C:\Users\User\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.pdb
+C:\Users\User\Desktop\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe
+C:\Users\User\Desktop\Equivalence_Graph\Equivalence_Graph\bin\Debug\Equivalence_Graph.pdb
+C:\Users\User\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.Form1.resources
+C:\Users\User\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.Properties.Resources.resources
+C:\Users\User\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.aboutForm.resources
+C:\Users\Игорь\Desktop\Equivalence_Graph\Equivalence_Graph\obj\Debug\Equivalence_Graph.aboutForm.resources
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe.config
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\bin\Debug\Equivalence_Graph.pdb
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\obj\Debug\Equivalence_Graph.csprojAssemblyReference.cache
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\obj\Debug\Equivalence_Graph.aboutForm.resources
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\obj\Debug\Equivalence_Graph.Form1.resources
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\obj\Debug\Equivalence_Graph.Properties.Resources.resources
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\obj\Debug\Equivalence_Graph.csproj.GenerateResource.cache
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\obj\Debug\Equivalence_Graph.csproj.CoreCompileInputs.cache
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\obj\Debug\Equivalence_Graph.exe
+C:\Users\Kikker\Desktop\drawgraphProgram\Equivalence_Graph\obj\Debug\Equivalence_Graph.pdb
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe.config
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\bin\Debug\Equivalence_Graph.pdb
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.csprojAssemblyReference.cache
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.aboutForm.resources
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.Form1.resources
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.Properties.Resources.resources
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.csproj.GenerateResource.cache
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.csproj.CoreCompileInputs.cache
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.exe
+C:\Users\Kikker\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.pdb

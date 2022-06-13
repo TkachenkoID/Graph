@@ -1,0 +1,11 @@
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe.config
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\bin\Debug\Equivalence_Graph.exe
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\bin\Debug\Equivalence_Graph.pdb
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph_me.csprojAssemblyReference.cache
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.aboutForm.resources
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.Form1.resources
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.Properties.Resources.resources
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph_me.csproj.GenerateResource.cache
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph_me.csproj.CoreCompileInputs.cache
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.exe
+C:\Users\uZver\Desktop\drawgraphProgra\drawgraphProgram_me\Equivalence_Graph\obj\Debug\Equivalence_Graph.pdb
